@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		302C718D2A0E8C43004060D1 /* diceCollada.scn in Resources */ = {isa = PBXBuildFile; fileRef = 302C718C2A0E8C3E004060D1 /* diceCollada.scn */; };
+		302C718F2A0E8C49004060D1 /* New_RedBase_Color.png in Resources */ = {isa = PBXBuildFile; fileRef = 302C718E2A0E8C46004060D1 /* New_RedBase_Color.png */; };
 		303E195A2A0C21AC00490563 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303E19592A0C21AC00490563 /* AppDelegate.swift */; };
 		303E195C2A0C21AC00490563 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 303E195B2A0C21AC00490563 /* art.scnassets */; };
 		303E195E2A0C21AC00490563 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303E195D2A0C21AC00490563 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		302C718C2A0E8C3E004060D1 /* diceCollada.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = diceCollada.scn; sourceTree = "<group>"; };
+		302C718E2A0E8C46004060D1 /* New_RedBase_Color.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = New_RedBase_Color.png; sourceTree = "<group>"; };
 		303E19562A0C21AC00490563 /* ARDicee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARDicee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		303E19592A0C21AC00490563 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		303E195B2A0C21AC00490563 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -61,6 +65,8 @@
 				303E195F2A0C21AC00490563 /* Main.storyboard */,
 				303E19622A0C21AE00490563 /* Assets.xcassets */,
 				303E19642A0C21AE00490563 /* LaunchScreen.storyboard */,
+				302C718C2A0E8C3E004060D1 /* diceCollada.scn */,
+				302C718E2A0E8C46004060D1 /* New_RedBase_Color.png */,
 			);
 			path = ARDicee;
 			sourceTree = "<group>";
@@ -124,8 +130,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				303E195C2A0C21AC00490563 /* art.scnassets in Resources */,
+				302C718F2A0E8C49004060D1 /* New_RedBase_Color.png in Resources */,
 				303E19662A0C21AE00490563 /* LaunchScreen.storyboard in Resources */,
 				303E19632A0C21AE00490563 /* Assets.xcassets in Resources */,
+				302C718D2A0E8C43004060D1 /* diceCollada.scn in Resources */,
 				303E19612A0C21AC00490563 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
