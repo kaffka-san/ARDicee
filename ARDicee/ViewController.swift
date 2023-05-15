@@ -21,7 +21,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         sceneView.autoenablesDefaultLighting = true
         //Show statistics such as fps and timing information
         sceneView.showsStatistics = true
-
+        
     }
     
     override func viewWillAppear(_ animated: Bool) {
